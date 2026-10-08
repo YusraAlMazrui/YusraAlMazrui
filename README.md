@@ -1,4 +1,4 @@
-# Hi, I'm Yusra
+# Hi, I'm Yusra Salim Al-Mazroey!
 
 Cybersecurity graduate (B.Sc. in Cyber Security, German University of Technology in Oman) based in Muscat, Oman. I'm looking for entry-level roles in the Gulf region in **Risk management**, **Network security** and **SOC Analyst**.
 
